@@ -1,0 +1,2 @@
+# AmnesiaOS
+Fork of OpenELEC
